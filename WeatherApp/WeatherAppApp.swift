@@ -2,7 +2,7 @@
 //  WeatherAppApp.swift
 //  WeatherApp
 //
-//  Created by Артем Гаршин on 22.09.2023.
+//  Created by Артем Гаршин
 //
 
 import SwiftUI
